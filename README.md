@@ -8,7 +8,7 @@
 
 ## PRESENTATION
 
-dumpster is hexdump clone for romeo roms (not limited to).
+dumpster is hexdump clone for (but not limited to) romeo roms.
 
 ---
 
@@ -30,7 +30,8 @@ dumpster is hexdump clone for romeo roms (not limited to).
 
 ```sh
 make example
-./example
+./example > rom.hex
+vim rom.hex
 ```
 
 ---
